@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there ✌! Soy Jos🎃ph.py
 
-<!--
-**josephLSalgado/josephLSalgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/PisshhSalgado?style=social)](https://twitter.com/PisshhSalgado)
+[![Instagram Follow](images/instagram_logo.png)](https://www.instagram.com/joelouis_salgado)
+[![GitHub Follow](https://img.shields.io/github/followers/josephLSalgado?label=Follow%20%40josephLSalgado&style=social)](https://github.com/josephLSalgado)
 
-Here are some ideas to get you started:
+🎒 Soy estudiante de **Ingeniería en Mecatrónica** de la **Facultad de Ingeniería** en ***San Luis Potosí***.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎒 También soy estudiante del programa de **Innovacción Virtual** por parte de **Microsoft México**.
+
+👨‍💻 Estoy aprendiendo a programar en Python ~~y para ello estoy desarrollando un repositorio con los conceptos básicos de este lenguaje (por si también te interesa puedes darle una checada)~~.
+
+➕
+
+🎮 Me apasiona *jugar/crear* **videojuegos**
+
+🎨 Y en mis tiempos libres aprendo a *modelar* en **Blender**.
+
+### Y recuerda... *¡Codea la vida!* 🎃
