@@ -18,7 +18,7 @@
 
 ### Y recuerda... *¡Codea la vida!* 🎃
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephLSalgado">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=josephLSalgado">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephLSalgado">
+  <img src="https://github-readme-stats.vercel.app/api?username=josephLSalgado">
 </p>
