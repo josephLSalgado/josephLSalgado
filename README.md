@@ -7,6 +7,6 @@
 🎮 Me apasiona jugar/crear **videojuegos**.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephLSalgado">
-  <img src="https://github-readme-stats.vercel.app/api?username=josephLSalgado">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephLSalgado&exclude_repo=IA-Innovaccion&langs_count=3&theme=midnight-purple">
+  <img src="https://github-readme-stats.vercel.app/api?username=josephLSalgado&count_private=true&show_icons=true&theme=midnight-purple">
 </p>
