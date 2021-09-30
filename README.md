@@ -1,7 +1,7 @@
 # Hi there ✌! Soy Joseph
 
 [![GitHub Follow](https://img.shields.io/github/followers/josephLSalgado?label=Follow%20%40josephLSalgado&style=social)](https://github.com/josephLSalgado)
-[![Twitter Follow](https://img.shields.io/twitter/follow/PisshhSalgado?style=social)](https://twitter.com/PisshhSalgado)
+[![Twitter Follow](https://img.shields.io/twitter/follow/JosephSalgado_?style=social)](https://twitter.com/PisshhSalgado)
 [![Instagram Follow](images/instagram_logo.png)](https://www.instagram.com/joelouis_salgado)
 
 🎮 Me apasiona jugar/crear **videojuegos**.
